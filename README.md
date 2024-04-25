@@ -1,5 +1,3 @@
-# Blogiz-Starter-Pack
-
 ## Installation:
 
 1. Clone the repository.
